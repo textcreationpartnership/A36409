@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Brittains visitation by the Lady Eleanor.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36409</idno>
+            <idno type="STC">Wing D1994</idno>
+            <idno type="STC">ESTC R36098</idno>
+            <idno type="EEBO-CITATION">15603078</idno>
+            <idno type="OCLC">ocm 15603078</idno>
+            <idno type="VID">104069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Brittains visitation by the Lady Eleanor.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>[4], 30 [i.e. 40] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Second Advent --  Prophecies.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104069:1"/>
+            <p>GREAT BRITTAINS VISITATION.</p>
+            <p>By the Lady <hi>ELEANOR.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1645</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:104069:2"/>
+            <pb facs="tcp:104069:2"/>
+            <head>THE APOCALYPS PROLOGVE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Herein a revolution or returne, Expreſt, as in thoſe dayes it came to paſſe, when as City and Countrey oppreſt ſo: By ſuch an univer<g ref="char:EOLhyphen"/>ſall impoſed taxx: Inns ſo full that for our only Saviour to be borne in. No place but an open Stable afforded: And thus like the truth
+<pb facs="tcp:104069:3"/>which no Corners or Curtaines requires. The joyfull tydings they in the wide field, Firſt ſaluted with them: Shepheards that kept watch the glory from the Lord by night which ſhone round about them.</p>
+            <p>So laſtly at his ſecond comming, or returne alſo reveald to be afore hand, the watch<g ref="char:EOLhyphen"/>full Paſtors ſaluted: ouer Spirituall Flocks from him, ſaying: <hi>I am Alpha and Omega, the morning Starre and evening both: the firſt and the laſt.</hi> As this the Lord of Sabbaths Angel whoſe countinance as the Sun, and lighted at the evening of time with the ſeven Starrs, &amp;c. And Golden Candle<g ref="char:EOLhyphen"/>ſticks all watch Lights round about him, even ſo farther for the little Booke of Life, who had its Swadle-Bands (as it were un<g ref="char:EOLhyphen"/>looſd: with Seven fold Seales bound ſo faſt up, when wonderfull acclamation ſuch in hea<g ref="char:EOLhyphen"/>ven
+<pb facs="tcp:104069:3" rendition="simple:additions"/>&amp; Earth (Revel. <hi>5</hi>) as came to paſſe with the Angel; a multitude of the Heaven<g ref="char:EOLhyphen"/>ly Hoſt ſuddainly praiſing God: Luke <hi>2</hi> ſuch Coriſpondencie ever between the Son of God, and Gods Word which for ever and ever in<g ref="char:EOLhyphen"/>dures. Maugre the Old Serpents malice. And his Angels, let looſe againe, as in the dayes of the Goſpels firſt progreſſe.</p>
+            <p>And therefore to ſay the truth, Though the Bottomleſſe pit freely opend, no wonder: affording beſide evill Spirits their Fellowſhip, Munition alſo of all Kinds, And the winds let looſe out of their Priſons, And Wrathfull Vialls the laſt powrd out, Who ſhall commiſſerate their Condition? when open houſe or Court (as it were) kept in Heaven, inviting all, Darkeneſle notwith<g ref="char:EOLhyphen"/>ſtanding preferd at laſt ſhall be before Light: Like thoſe frivolous and light excuſes made of marriage: its mutability preferd above the
+<pb facs="tcp:104069:4"/>eſtate of Angels: And before eternall life: Farmes their Leaſes or the like, as ſold their life in bleſſed Paradice for ſuch a toy.</p>
+            <p>Thus no marvel, although the infernall pit opend, where thoſe Legions of Wormes or Locuſts ſwarming out. Our Pruining Hookes have turnd into Swords, our union into divi<g ref="char:EOLhyphen"/>ſion; And ſo much for theſe preſent vigilent dayes of ours from which nothing conſeald is, or hidden, even the things in the little golden booke as with no little expedition are preſented here.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commentary_on_Revelation">
+            <pb facs="tcp:104069:4"/>
+            <head>THE REVELATION OF JESVS CHRIST Interpreted.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Hews how ONE Iſle calls unto ano<g ref="char:EOLhyphen"/>ther, <hi>The Jle of Pathmos,</hi> unto the Iles of <hi>Great Brittaine.</hi> The great day of the Lords com<g ref="char:EOLhyphen"/>ming revealing it: <hi>Whereof let the Jſles be glad,</hi> Now or Ne<g ref="char:EOLhyphen"/>ver.</p>
+            <pb n="4" facs="tcp:104069:5"/>
+            <p> Of whoſe Viſitation <hi>from him which is, and which was, and which is to come:</hi> what date the time beares, the firſt witneſſe theſe, <hi>And from the ſeven Spirits in ſight of the Throne or neareſt there unto, verſ.</hi> 4. Which as it ſignifies or figures the preſent Century, <hi>or the laſt ſeven hundred years</hi> Alſo points at the preſent reigne, when it began, about <hi>Eaſter,</hi> witneſſe theſe: <hi>And from Jeſus Chriſt the firſt begotten of the dead,</hi> And the Prince of the Kings of the Earth, <hi>
+                  <g ref="char:V">Ʋ</g>nto him that loved us, and waſhed us from our ſins in his owne Blood, verſe</hi> 5.</p>
+            <p>Even as two for failing can
+<pb n="5" facs="tcp:104069:5"/>witneſſe, <hi>Sonne and Father both:</hi> crown'd or <hi>created Kings,</hi> about the aforeſaid <hi>Reſurrection feaſt kept,</hi> concluded thus: <hi>And hath made us Kings and Prieſts unto God and his father, to him be glory and dominion</hi> for ever and ever Amen. verſe 6. <hi>Behold he com<g ref="char:EOLhyphen"/>meth, &amp;c.</hi> as much to ſay, the laſt father and ſonne of that kind from the Conqueſt: ſince when hath been 24. of them, making up the bleſſed Prophets and A<g ref="char:EOLhyphen"/>poſtles number.</p>
+            <p>And ſo farewell <hi>the bleſſed yeares of Grace,</hi> and time to be longer as in the yeare 1625. was
+<pb n="6" facs="tcp:104069:6"/>revealed <hi>to his Hand-maid,</hi> the <hi>firſt</hi> yeare of his reigne, <hi>to whom the day of Judgement being at hand de<g ref="char:EOLhyphen"/>clared:</hi> was dedicated in a booke by her: And the generall Reſur<g ref="char:EOLhyphen"/>rection to bee in his dayes as from the Prophet <hi>Daniels</hi> mouth given to underſtand: concerning the aforeſaid time: <hi>And at that time ſhall the great Prince Mi<g ref="char:EOLhyphen"/>chael ſtand up, which ſtandeth for the children of the people or defender of the Faith,</hi> even Great Brittaines troubleſom <hi>time,</hi> pointing thereat with the plagues purſuing one another for mortality as never ſince a Nation the like: Of whoſe <hi>Jnauguration or ſtanding up
+<pb n="7" facs="tcp:104069:6"/>at the aforeſaid</hi> Reſurrection feaſt thus ſignified: <hi>Many of them that ſleepe in the duſt of the Earth ſhall wake,</hi> ſome to everlaſting life, <hi>&amp;c. Dan.</hi> 12.</p>
+            <p>And for a faithfull witneſſe <hi>So goe thy way Daniel,</hi> as no few in their Mother Earths Boſome dayly take up their lodging of free coſt, <hi>till Michael his a<g ref="char:EOLhyphen"/>larme awakens them,</hi> where alſo the yeare 1625. <hi>(untill which dayes Daniels viſions to waite)</hi> Thus caſt up two Hundred &amp; ninety daies and three hundred and five and thirty, 625. (<hi>Dan.</hi> 12.)</p>
+            <p>But going on with <hi>John whoſe
+<pb n="8" facs="tcp:104069:7"/>name to no Nation better known then unto Ours,</hi> who ſtiles him<g ref="char:EOLhyphen"/>ſelfe your Brother and compani<g ref="char:EOLhyphen"/>on in tribulation, in the Iſle that is called <hi>Patmos,</hi> where confi<g ref="char:EOLhyphen"/>ned <hi>was on the Lords day viſited by the Holy Ghoſts Angel, the</hi> Firſt voice ſaying, <hi>J am Alpha and Omega, and what thouſeeſt write in a Booke and ſend it, &amp;c.</hi> Wher<g ref="char:EOLhyphen"/>upon being turned, ſaw that dreadfull appearance, <hi>ONE all looking from head to foot like fire,</hi> that ſtood in the midſt of thoſe candle ſtickes of Gold, and ther<g ref="char:EOLhyphen"/>upon falling dead at his feet by a touch of his Septer, the ſeven Starrs in his right hand, being a<g ref="char:EOLhyphen"/>againe
+<pb n="9" facs="tcp:104069:7"/>revived come to himſelfe: was againe charged to write the things to come, the miſtery of the ſeven ſtarres which he ſaw in his hand, the Lord of Sabbath <hi>Even to diſplay times Coate by</hi> CHARLES <hi>Waggon or Wayne,</hi> to wit the ſeventh preſent Cen<g ref="char:EOLhyphen"/>tury, about the midſt of it, even to looke for the generall Reſur<g ref="char:EOLhyphen"/>rection time, as preſent, paſt, <hi>and future here with times voice te<g ref="char:EOLhyphen"/>ſtified from him which is, and which was, and is to come.</hi>
+            </p>
+            <p>Wherefore in the day of Judge<g ref="char:EOLhyphen"/>ments likeneſſe was preſented unto him the Booke of the Old and new
+<pb n="10" facs="tcp:104069:8"/>
+               <hi>Teſtament, that Alpha and Omega:</hi> Whoſe Body as it were clothed and girt. The Bible in gilt paper bound with braſſe Claſps which in ſuch a yeare beares date, 1700. <hi>When interpreted the booke of the Revelation</hi> as <hi>whatſoever ſpoken in darkeneſſe or in the Eare aſſur'd to be made cleare as the light. And he</hi> that hath an eare let him heare what the Spirit of propheſie ſaith, and in time repent and a<g ref="char:EOLhyphen"/>mend, or expect a blow for <hi>his paines, when he ſtands at the doore and knocks ſo long, the Comforter ſent ſaying, behold J come quickly. And he ſhall Sup, and ſit with mee that hears my voice opens the doore.</hi>
+            </p>
+            <div n="4" type="chapter">
+               <pb n="11" facs="tcp:104069:8"/>
+               <head>CAP. 4.</head>
+               <p>THough haſtning with win<g ref="char:EOLhyphen"/>ged time: yet ſome more Evidence requiſit in this a matter of ſuch weight the day of judge<g ref="char:EOLhyphen"/>ment: And ſo ſhewes a doore opened here, as much to ſay, <hi>Nothing conſeald or hidden, as hea<g ref="char:EOLhyphen"/>vens cathederall ſhewed here, the voice ſaying come up heither, J will ſhew thee things to come.</hi> The Reſur<g ref="char:EOLhyphen"/>rection propheticall alarme veri<g ref="char:EOLhyphen"/>ly, like that afore, <hi>J am he that was dead and am alive, &amp;c. and have the Keyes, &amp;c.</hi> Firſt ſaw where the ancient of dayes ſate,
+<pb n="12" facs="tcp:104069:9"/>Inthroned under a Canopey, raine bowe like: Where all in Prieſtly Veſtments round about <hi>thoſe Elders with reſtleſſe</hi> Thunde<g ref="char:EOLhyphen"/>ring voices extolling his name who lives for ever and ever. <hi>And Holy, Holy, Holy, crying out as it were glory be to the Father, &amp;c. Amen.</hi> For whoſe pleaſure all things created. As for the lamps before the Throne, <hi>to wit</hi> the year of God call'd the ſeven Spirits of God, of the ſame influence with the ſeven Stars, requires no far<g ref="char:EOLhyphen"/>ther repetition being both one: Neither theſe in the likenes here of Saints and Angels, in Hea<g ref="char:EOLhyphen"/>ven <hi>whoſe wings ſo full of eyes be<g ref="char:EOLhyphen"/>fore
+<pb n="13" facs="tcp:104069:9"/>and behind ſignifying thoſe eye witneſſes their watchfullneſſe and as perſonating</hi> the bleſſed <hi>Prophets</hi> and Evangeliſts: So laſtly far<g ref="char:EOLhyphen"/>ther for the <hi>myſterie or morall</hi> of <hi>theſe crown'd Elders expreſly</hi> ſhews, How many intered Princes in this Iſle ſince the conqueſt which in the ſpace of ſeven hundred yeares laſt paſt in Alablaſter Shrowds clothed, That have caſt their Crownes before the Throne or before the great day.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="14" facs="tcp:104069:10"/>
+               <head>CAP. 5.</head>
+               <p>ANd without boaſting or amplifying, theſe the truth in few words: <hi>This bleſſed Booke firſt cryed, He that hath an eare let him heare. And here by a ſtrong An<g ref="char:EOLhyphen"/>gel proclam'd: Who is worthy to o<g ref="char:EOLhyphen"/>pen the booke in the right hand of him ſitting upon the Throne:</hi> No other then the miſterie of times and ſea<g ref="char:EOLhyphen"/>ſons, in the yeare of the worlds Redemption, 1625. to be reveald or unſeald. And becauſe this ſo difficult (no man found <hi>worthy &amp;c.) John that therfore much wept,</hi> by <hi>that</hi> Elder willed to weep no
+<pb n="15" facs="tcp:104069:10"/>more. <hi>Jnformed ECCELEO radix David, vicet, to open the booke and looſe the ſevenfold ſeales:</hi> being not improper to explain this like<g ref="char:EOLhyphen"/>wiſe, as he ſaid, <hi>J am Joſeph, ſo am I David,</hi> This name of mine enterd here: by that Elder even <hi>Daniel,</hi> as much to ſay, <hi>Goe thy way Iohn, let thoſe words ſatisfie thee</hi> ſpoken to <hi>Daniel:</hi> The words are ſealed up untill the time of the end, <hi>Thou ſhalt ſtand in thy lott,</hi> &amp;c. (<hi>Dan.</hi> 12.) Reſervd till a time and times and halfe: Poin<g ref="char:EOLhyphen"/>ting to the preſent Century ſo ſignified in behalfe of it, three pe<g ref="char:EOLhyphen"/>riods and a part, &amp;c.</p>
+               <p>
+                  <hi>So dignus eſt agnus, viz. Anno
+<pb n="16" facs="tcp:104069:11"/>Domini, in ſuch a yeare of our Re<g ref="char:EOLhyphen"/>demption,</hi> the firſt yeare of ſuch a reigne. Theſe Sabbaticall Seales unlooſed witneſſe, <hi>For thou haſt redeemed us and made us Kings and Prophets and we ſhall reigne.</hi>
+               </p>
+               <p>Even ſo let every Creature in the ſea, namely the Iſles Bleſſe thoſe right hand yeares, with that Grand Iury, the 24. Elders before the Throne falling down. VVho give up their Verduit, <hi>Davids</hi> Keye hath prevaild ho<g ref="char:EOLhyphen"/>nour, glory, and blesſing, &amp;c.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="17" facs="tcp:104069:11"/>
+               <head>CAP. 6.</head>
+               <p>ANd the Sonne of Thunder this fourth Evangeliſt that heard the day of Judgements Sommons, <hi>The noiſe of thunder as it were, one of the ſeven Seales being unlooſed: One of the foure Beaſts ſaying come and ſee.</hi> As much to ſay, <hi>diſplay'd</hi> times and ſeaſons miſtery: <hi>Jn the ſeventh Century,</hi> And unto what Nation, this new Song of the Lords comming de<g ref="char:EOLhyphen"/>dicated: as no unneceſſary <hi>cir<g ref="char:EOLhyphen"/>cumſtance time,</hi> a thing obſerved of old, when the word of the Lord came unto them.</p>
+               <pb n="18" facs="tcp:104069:12"/>
+               <p> For evidence hereof the Con<g ref="char:EOLhyphen"/>querer &amp; <hi>Rufus,</hi> here behold <hi>their ancient</hi> Seales: <hi>Where firſt ſaw a White Horſe,</hi> and <hi>He that ſate on him a Bowe, and a Crowne given un<g ref="char:EOLhyphen"/>to him.</hi> The Engliſh bowe re<g ref="char:EOLhyphen"/>noun'd farr and neere: (verſe 2.) Whereby cleere as day given to underſtand <hi>the Sonne of God re<g ref="char:EOLhyphen"/>veald out of the Scripture to theſe very Jſles. Wherefore liſten O Jſles.</hi>
+               </p>
+               <p>And this miſterie of time ſea<g ref="char:EOLhyphen"/>led with the yeares foure ſeaſons, their diſcriptions, <hi>The Sun like a Conquerour: and Gods word like the Sunne which overcomes whatſoever</hi> Diſpells all darkeneſſe, ſaying:
+<pb n="19" facs="tcp:104069:12"/>
+                  <hi>He that hath an eye come and ſee:</hi> The worlds eye, like an expert Horſeman upon his Carreer: running his reſtleſſe courſe about, who firſt enters the victorious crowned yuory Ramme, the <hi>Wholeſome Spring more then Gold to be embraced, the Odorifferous Spring giving to every creature Life.</hi>
+               </p>
+               <p>The ſecond Rider ſo furious, he on the Red Horſe, giving all one word, Come and ſee: Not difficult to be diſcern'd, the <hi>Crabb at all points</hi> armed, <hi>Summers ſcor<g ref="char:EOLhyphen"/>ching rayes: when red as fire all:</hi> Slaying in Armes as it were with Sythes and ſuch like no ſhort weapon.</p>
+               <pb n="20" facs="tcp:104069:13"/>
+               <p> The third a Blacke Horſe, he <hi>that ſate on him, a paire of Ballance in his hand, in his proper colours and complexion ſignified not inferior to his fellowes, as Automes voice</hi> cleeres it, who theſe Celeſtiall Horſemen, <hi>or Riders</hi> were, a voice heard in the midſt of them, ſay<g ref="char:EOLhyphen"/>ing, <hi>A meaſure of Wheat for a peny, and three meaſures of Barley.</hi> And hurt not <hi>the wine and oyle,</hi> even the Sun in his circuit pasſing by the <hi>Equinoctiall,</hi> weighing equall houres to day and night: <hi>Thus all the world come and behold alſo the fourth ſeaſons miſterie,</hi> ex<g ref="char:EOLhyphen"/>plained in this new Calender or Prognoſtication.</p>
+               <pb n="21" facs="tcp:104069:13"/>
+               <p> The fourth a pale Horſe, he that ſate one him called Death. Or like the laſt day ſo gaſtly and <hi>paile</hi> the grizled Goate with his Beard. <hi>Hoary Winter its wann vi<g ref="char:EOLhyphen"/>ſage that ſtarvs with hunger young and old,</hi> ſhaking every Limbe.</p>
+               <p>And theſe Characters poin<g ref="char:EOLhyphen"/>ting at thoſe foure Beaſts, <hi>Aries, Taurus, Leo, Capricorne, Like</hi> as <hi>the foure Evangeliſt.</hi> By winged Beaſts foure, full of eyes. Which Motto, <hi>come and ſee,</hi> may ſerve them to <hi>which reſts not Day nor Night.</hi>
+               </p>
+               <p>And after foure of the Seales
+<pb n="22" facs="tcp:104069:14"/>opened the miſtery ſhewd of the foure ſeaſons, the Suns reſtleſſe courſe (to ſay) finiſh'd. <hi>The next offer'd to conſiderations veiw, in this Story or Treatiſe, is the bleſſed caſe of thoſe poore Soules in<g ref="char:EOLhyphen"/>treated a little Seaſon to reſt: till their</hi> Fellow Souldiers and Brethren <hi>killed</hi> as they, VVhoſe Blood for the Teſtimony they held crying ſo loud, <hi>How long Lord,</hi> &amp;c. to wit, to the day of venge<g ref="char:EOLhyphen"/>ance, as behold defferd no longer the day of Iudgement immediat<g ref="char:EOLhyphen"/>ly which followes in its dread<g ref="char:EOLhyphen"/>full likeneſſe, when as fullfild, white robes given likewiſe to <hi>the reſt of their brethren arrayed,</hi>
+                  <pb n="23" facs="tcp:104069:14"/>(to wit) <hi>in cleane Shrowds.</hi>
+               </p>
+               <p>
+                  <hi>Then</hi> Time <hi>to his untimely end comes, whoſe thride of life ſuddainly cutt off, of whoſe ſable Hearſe thus, &amp; what mourners accompanying the corps of time, about</hi> 44. <hi>aged in the mideſt of his dayes:</hi> Firſt the qua<g ref="char:EOLhyphen"/>king Earth Mother of all in ſuch a conſumption. The Sunn next as blacke as Sackcloth of haire, coverd all over. And the Moone over watched with her red face looking <hi>like blood,</hi> the condole<g ref="char:EOLhyphen"/>ling <hi>Heavens</hi> ſhedding their ſtars in ſtead of teares as faſt, impati<g ref="char:EOLhyphen"/>ent windes as loud: their ſhrill Throat ſetting forth, ready to
+<pb n="24" facs="tcp:104069:15"/>rent all aſſunder with Sighes hollow Grones.</p>
+               <p>
+                  <hi>So all departing as they came: the Heavens as it were quartering thoſe Ancient Coates the foure Sea<g ref="char:EOLhyphen"/>ſons, which were like Scutchens roled up together like a Scrole: The Iſlands carried away with the violence of the Seas uproare:</hi> Each acting a part, the Kings and Great men ring<g ref="char:EOLhyphen"/>ing out ſuch a Peale, <hi>all</hi> flying a<g ref="char:EOLhyphen"/>way and hyding themſelves for the great day of his wrath to come as who able to ſtand, routed <hi>all,</hi> ſurpriſed in ſuch a moment <hi>darkeneſse.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="25" facs="tcp:104069:15"/>
+               <head>CAP. 7.</head>
+               <p>ANd theſe like <hi>Iacobs</hi> Ladder reaching at laſt to Heaven Gate: <hi>(Aſcendentem abortuſolis:) Behold ſaw foure Angels ſtan<g ref="char:EOLhyphen"/>ding on the foure Corners of the Earth holding the foure Winds that they ſhould not blow, &amp;c.</hi> Even gives to underſtand in what year the Finall blow, ſaying: <hi>hurt not, &amp;c.</hi> till we have ſealed ſo many, <hi>And there were ſealed a hundred forty and foure, &amp;c.</hi> of the ſer<g ref="char:EOLhyphen"/>vants of God in the fore heads, as much to ſay, the yeare of God, 1644. when compleat, then the
+<pb n="26" facs="tcp:104069:16"/>diſolution comes quickly or is at hand. <hi>And thus like the Covenant of late ſealed, whereſo many names alſo the months of the yeare, ſetting their hands at it were twelve times twelve.</hi> verſe 4.</p>
+               <p>And as including the yeare compleat or accompliſhed, 44. till when thoſe pernitious winds reſtrayned not to hurt the Earth nor any Tree: <hi>So Aludes to that fruitleſſe tree after the fourth yeare to be for borne,</hi> no longer interceded, for in the Goſpel. Wherefore <hi>Sir,</hi> theſe are to let you know it is ſpo<g ref="char:EOLhyphen"/>ken to your <hi>Majeſtie,</hi> the laſt of thoſe crowned foure and twenty
+<pb n="27" facs="tcp:104069:16"/>Elders, <hi>being full forty foure aged, and reigning ſince aged</hi> 24. <hi>ſaying</hi> Sir <hi>thou knoweſt who they are, verſe</hi> 14.</p>
+               <p>That Albion Regiment, theſe Folke in white Robes fleeced and famiſhed as yee ſee, the very condition of Priſoners taken by you: The Prophet <hi>Jſaiah</hi> gives notice of it, They are his words too, <hi>Liſten O Jſles, &amp;c.</hi> 49. Cap. That thou mayeſt ſay <hi>to the Priſoners goe forth, to them that are in darkeneſſe they ſhall hun<g ref="char:EOLhyphen"/>ger and thirſt no more, neither ſhall heat nor Sun any more ſmite them,</hi> for the Lambe in the mideſt of the Throne having the ſeven eyes,
+<pb n="28" facs="tcp:104069:17"/>
+                  <hi>which are the ſeven ſpirits of God, ſhall wipe away all teares from their eyes.</hi>
+               </p>
+               <p>And more over for theſe words <hi>aforeſaid, as</hi> ſerving for the mideſt of the Century, about the yeare, 44. So points at the very halfe yeare, <hi>about Michael the Arch Angells Feaſt, the aforeſaid Blow,</hi> or laſt Blow, <hi>there about till when thoſe hurtfull winds reſtrained,</hi> Mi<g ref="char:EOLhyphen"/>chaelmas riggs ſo called.</p>
+               <p>As aforeſhewed forbidden to hurt the VVine and the Oyle: all ſpeaking as it were with <hi>Au<g ref="char:EOLhyphen"/>tomns</hi> boyſterous <hi>voice,</hi> a greater Blow then great Babylons, when that hand writing appeared, wri<g ref="char:EOLhyphen"/>ten
+<pb n="29" facs="tcp:104069:17"/>by that Angels hand, that Prince affrighting and his nume<g ref="char:EOLhyphen"/>rous Peers, not a little.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CAP. 8.</head>
+               <p>ANd <hi>like as about halfe an houre after the clocke had ſtricken,</hi> ſhews about the ſpace of halfe an houre there was ſilence in Hea<g ref="char:EOLhyphen"/>ven, after the ſeales were opened which imports not only when a vacancie in the Church. <hi>Theſe Angels their ſtanding before God then, preparing themſelves to ſound, but ſhews withall a ſpace of time allotted to repent of their contempts ſtood in, and cruelties before his
+<pb n="30" facs="tcp:104069:18"/>men of warre ſent forth.</hi> But the marriage of the Lambe being ready they unworthy that were bidden: The cenſure fil'd with Alter Coales is caſt downe the curſe defer'd no longer, the a<g ref="char:EOLhyphen"/>foreſaid ſeven Angels ſo highly preferd, ſound fire and ſword, woe to Land and Sea.</p>
+               <p>
+                  <hi>And ſo the great Ship its being lanchd forth, ſhewed at large,</hi> ver. 12. <hi>likened to</hi> Etnas <hi>burning mountaine with like Sulpharous ſmoaks ſmiting of Sunne Moone, and Starrs, the third part: and with ſuch a ſpacious Lampe like a Starre even well named Worme<g ref="char:EOLhyphen"/>wood: verily the Arch Biſhops Cha<g ref="char:EOLhyphen"/>recter,</hi>
+                  <pb n="31" facs="tcp:104069:18"/>His lanching out or ad<g ref="char:EOLhyphen"/>vancing both goes together: Biſhops and Ships able both to choake all with their ſmoakes and the like. The very root of bitterneſſe made of it, and this the meaning of this unluckey Starrs falling burning as a lamp. The contriver of this third king<g ref="char:EOLhyphen"/>doms cumbuſtion this aforeſaid high Officer in the Church, alſo with the yeare of God 1633. <hi>Sep<g ref="char:EOLhyphen"/>tember accompanied, when he tran<g ref="char:EOLhyphen"/>ſtated as in truth this Prognoſticati<g ref="char:EOLhyphen"/>on ſerves from the yeare</hi> 1625. <hi>untill</hi> 44. <hi>compleat. The third Angells pro<g ref="char:EOLhyphen"/>claimes it: Witneſse Woe, woe, woe, treble woes to the Earths Jnhabitants</hi>
+                  <pb n="32" facs="tcp:104069:19"/>to wit, <hi>England, Scotland and Jre<g ref="char:EOLhyphen"/>land.</hi> And ſo much for theſe An<g ref="char:EOLhyphen"/>ge<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls alarme imparted concer<g ref="char:EOLhyphen"/>ning the third part of creatures in the Sea diſtroied: and the third part of Ships. And the third part of the lights of Heaven ſmitten, and to ſlay the third part of men, Saying come and ſee or behold great <hi>Brittains Mapp, as viſible as the Heavens foure Seaſons ſhewd in the Calender.</hi>
+               </p>
+               <p>Even <hi>Lucifers</hi> being caſt downe lik lightning in our dayes Firſt the Arch Biſhop in whoſe cuſtodie the Keys of the AByſs power given him to impriſon, Levie Taxes, wage warre at his
+<pb n="27" facs="tcp:104069:19"/>pleaſure, the looſe Reines laid on his Necke that breake his owne the portion <hi>of that aſpiring Hypo<g ref="char:EOLhyphen"/>crite full of the miſterie of Jniquitie: And ſo much for the miſterie of that malevolent Starre.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CAP. 9.</head>
+               <p>PRoceeding one with theſe calculated for this Kingdom ſhewing, as <hi>Heaven</hi> open'd and thoſe horſemens comming pro<g ref="char:EOLhyphen"/>claim'd come and ſee. <hi>Alſo open'd the bottomleſſe pit, ecclipſing the Sun and Ayre, ſet open by him the Sonne and Heire of perdition, father of that generation of Vipers: So Dragons and Deeps, like the evill ſpirits confeſse and praiſe God when men faile.</hi> For
+<pb n="29" facs="tcp:104069:20"/>diſcovering whoſe comming at hand the day of judgements ſtan<g ref="char:EOLhyphen"/>ding at the doore, the very cur<g ref="char:EOLhyphen"/>rent coine demonſtrated of this Kingdome all horſemen, money made their Gold that odored Maſſe occaſion of evills all, <hi>Beget<g ref="char:EOLhyphen"/>ting ſuch uunatur all doings, Warrs, and Jmpriſonments, deſired death where it flees away, of late like Hell throng'd as full every where. Of which flying current halfe crowne pei<g ref="char:EOLhyphen"/>ces Currentium in Bellum, with Crownes on their heads, what peices of Plate they are no need to aske or goe farre to inquire,</hi> whoſe Image with deformed haire, Hermo<g ref="char:EOLhyphen"/>phradite Locks, none of that mayden Queens doubtleſſe with
+<pb n="25" facs="tcp:104069:20"/>Breaſt plates all, &amp;c, ſuch tor<g ref="char:EOLhyphen"/>menting doings and Dolers un<g ref="char:EOLhyphen"/>knowne in her dayes.</p>
+               <p>And ſo much for thoſe ſignes with that ſtar of the bottomleſſe pitt in the likeneſſe of <hi>Scorpio and Sagitarious, with faces like men, but as the noſe in the face or the like ſo difficult whoſe to diſcerne, whoſe ſu<g ref="char:EOLhyphen"/>perſcription or diſcription,</hi> &amp; <hi>with our</hi> old Gold plainly called the An<g ref="char:EOLhyphen"/>gel of the aforeſaid AByſs (that Diſtroyer) not without a double ſignification like thoſe names, <hi>Abbadon and Apollyon,</hi> giving to underſtand withall as under the Angels feet the Scorpion or Dra-<hi>Anglia</hi> giving the Angells name fatall to the Old Serpent <hi>to receive there his fall.</hi>
+               </p>
+               <pb n="26" facs="tcp:104069:21"/>
+               <p> And here one woe is paſt (The ſower of debate and divi<g ref="char:EOLhyphen"/>ſion Anatamiz'd) <hi>And two woes more comming after, pasſing over how farre Civill warre exceeds other. the Navyes preparation comes next, thoſe winged Horſes of the Seawith Lyons heads and Serpents tayles.</hi>
+               </p>
+               <p>The winds withall prepared for an houre, a day, amoneth, and a yeare, which Angels foure com<g ref="char:EOLhyphen"/>manded to be looſed bound in the Eaſt as it were: or Babylons great river <hi>Euphrates,</hi> not only points at that ſuddain hand wri<g ref="char:EOLhyphen"/>ting ſent but to the yeare of 1644. paſt as much to ſay, then the third woe the day of judgement comes after or quickly, like a
+<pb n="32" facs="tcp:104069:21"/>Theiſe. Of which <hi>Horſe men even</hi> bound <hi>in the narrow Seas ſay<g ref="char:EOLhyphen"/>ing. He heard the number of them or liſt of their names, with fire and ſmoake and Brimſtone iſſuing out of</hi> their tayles the very firie Lake, to behold with ſtinging great Gunns or peices chargd as here peices of all kinds numberd, of late ſince diſcovered the <hi>Jndies,</hi> And ſo farre for a diſcoverie of the time alſo, and theſe ſerving to explaine the reſt: And the reſt of the men that were not killed, &amp;c: (verſe 20.) repented not that they ſhould not ſerve Divels of Gold and Silver, &amp;c. <hi>(Daemonia)</hi> neither repented they of their
+<pb n="30" facs="tcp:104069:22"/>though not unforetold how bitter a pille it would prove: So might be in<g ref="char:EOLhyphen"/>fiſted on his writing to a LADIE (wil<g ref="char:EOLhyphen"/>ling her) not to ſalute with God ſpeed them of the faction of Antichriſt. But unwilling to be voluminus to intrude too farr on the bounds of patience in diſtracted times.</p>
+            </div>
+            <trailer>FINJS.</trailer>
+            <pb facs="tcp:104069:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
